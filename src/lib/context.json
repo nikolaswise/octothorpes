@@ -1,0 +1,11 @@
+{
+  "octothorpes": {
+    "@id": "https://vocab.octothorp.es/#octothorpes",
+    "@type": "@id"
+  },
+  "octothorpedBy": {
+    "@id": "https://vocab.octothorp.es/#octothorpedBy",
+    "@type": "@id",
+    "@reverse": "octothorpes"
+  }
+}
